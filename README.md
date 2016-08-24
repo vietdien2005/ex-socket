@@ -1,1 +1,1 @@
-# ex-socket
+# Example socket.io with mysql
